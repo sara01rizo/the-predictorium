@@ -9,6 +9,8 @@ h1 {
   width: 15px;
   text-decoration: palevioletred;
   text-shadow: 15px;
+  padding: 8px 18px !important;
+  margin: 8px 18px;
 }
 
 .container {
