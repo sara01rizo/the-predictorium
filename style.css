@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  display: flex;
+}
+
+h1 {
+  color: mediumslateblue;
+  text-align: center;
+  width: 15px;
+  text-decoration: palevioletred;
+  text-shadow: 15px;
+}
+
+.container {
+  width: 600px;
+}
+.overview {
+  text-align: center;
+  width: 500px;
+  padding: 40, 30, 2;
+}
