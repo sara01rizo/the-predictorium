@@ -1,3 +1,4 @@
 Swal.fire({
-    title: "Welcome!"
+    title: "Welcome!",
+    text: "Test The Incredible Predictorium",
 });
