@@ -1,3 +1,5 @@
+let askNname = [];
+
 function displayAnswer() {
   let answerAge = document.querySelector("answerAge");
 
@@ -6,8 +8,16 @@ function displayAnswer() {
   console.log(apiName);
 }
 
-function displayAge() {
-  let age = Math.floor(Math.random() * 100 + 1);
+function clickButton() {
+  let button = [];
+}
+
+function displayAge(askName, age) {
+  return fetch(),
+    
+    let ageToS = Math.floor(Math.random() * 100 + 1)
+  .then();
+  let answerAge = document.querySelector("answerAge");
 }
 
 displayAnswer();
