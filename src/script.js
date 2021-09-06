@@ -8,17 +8,9 @@ function displayAnswer() {
   console.log(apiName);
 }
 
-function clickButton() {
-  let button = [];
-}
-
-function displayAge(askName, age) {
-  return fetch(),
-    
-    let ageToS = Math.floor(Math.random() * 100 + 1)
-  .then();
-  let answerAge = document.querySelector("answerAge");
+function displayAnswer() {
+  let agePredicted = document.getElementById("demo");
+  agePredicted.innerHTML = Math.floor(Math.random() * 100 + 1);
 }
 
 displayAnswer();
-displayAge();
