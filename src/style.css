@@ -1,6 +1,7 @@
 body {
   text-align: center;
   display: flex;
+  background-color: black;
 }
 
 h1 {
@@ -15,6 +16,7 @@ h1 {
 
 .container {
   width: 600px;
+  background-color: black;
 }
 .overview {
   text-align: center;

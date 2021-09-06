@@ -6,4 +6,9 @@ function displayAnswer() {
   console.log(apiName);
 }
 
+function displayAge() {
+  let age = Math.floor(Math.random() * 100 + 1);
+}
+
 displayAnswer();
+displayAge();
