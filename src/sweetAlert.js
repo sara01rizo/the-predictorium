@@ -203,12 +203,13 @@
       zambia: "Zambia",
       zimbabwe: "Zimbabwe",
     },
+
+    customClass: "popup-class",
   });
 
   if (pais) {
     Swal.fire({
       title: `You have selected ${pais}`,
     });
-    alert(pais);
   }
 })();
