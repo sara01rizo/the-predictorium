@@ -1,3 +1,5 @@
+( => {})
+
 const { value: pais } = Swal.fire({
   title: "Welcome!",
   text: "Test The Incredible Predictorium",
@@ -203,3 +205,8 @@ const { value: pais } = Swal.fire({
     zimbabwe: "Zimbabwe",
   },
 });
+
+
+if (pais) {
+    alert('Hello!');
+}
